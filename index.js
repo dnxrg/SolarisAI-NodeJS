@@ -1,3 +1,5 @@
+import axios from "axios"
+
 export default class SolarisAI {
     /**
      * Create a new SolarisAI Instance
@@ -8,5 +10,5 @@ export default class SolarisAI {
         this.apiKey = api_key
         if (apiKey == undefined || apiKey == null || apiKey == "" || typeof apiKey !== "string") this.apiKey = "";
     }
-    
+
 }
