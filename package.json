@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dnxrg/SolarisAI-NodeJS/issues"
   },
-  "homepage": "https://github.com/dnxrg/SolarisAI-NodeJS#readme"
+  "homepage": "https://github.com/dnxrg/SolarisAI-NodeJS#readme",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
 }
