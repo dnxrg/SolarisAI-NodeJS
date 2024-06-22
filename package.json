@@ -1,0 +1,19 @@
+{
+  "name": "solarisai-npm",
+  "version": "1.0.0",
+  "description": "Powerful Module to contact Solaris AI API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnxrg/SolarisAI-NodeJS.git"
+  },
+  "author": "rishu074",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dnxrg/SolarisAI-NodeJS/issues"
+  },
+  "homepage": "https://github.com/dnxrg/SolarisAI-NodeJS#readme"
+}
